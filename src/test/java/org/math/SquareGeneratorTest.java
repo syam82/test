@@ -16,7 +16,7 @@ public class SquareGeneratorTest extends TestCase {
        assertEquals(25 , s.squareOf(5));
     }
 
-    public void testSquareOf() throws Exception {
+    /*public void testSquareOf() throws Exception {
         s = null ;
-    }
+    }*/
 }
