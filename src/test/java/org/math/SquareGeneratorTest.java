@@ -13,7 +13,7 @@ public class SquareGeneratorTest extends TestCase {
     }
 
     public void tearDown() throws Exception {
-       Assert.assertEquals(25 , s.squareOf(5));
+       assertEquals(25 , s.squareOf(5));
     }
 
     public void testSquareOf() throws Exception {
