@@ -4,7 +4,7 @@ package org.math;
 public class Calculator {
 
     public int add(int a , int b){
-        return c;
+        return a+b;
     }
 
     public int sub(int a ,int b){
