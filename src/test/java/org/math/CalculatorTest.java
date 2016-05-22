@@ -4,10 +4,7 @@ package org.math;
 import org.junit.Assert;
 import org.junit.Test;
 
-/**
- * Created by deepak on 14/2/15.
- * Project Name : ${PROJECT_NAME}
- */
+
 public class CalculatorTest {
     @Test
     public  void addTest(){
